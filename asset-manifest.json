@@ -1,0 +1,41 @@
+{
+  "files": {
+    "app.js": "/lojadetenenisreactnative/static/js/app.0e0c8d9c.chunk.js",
+    "app.js.map": "/lojadetenenisreactnative/static/js/app.0e0c8d9c.chunk.js.map",
+    "runtime~app.js": "/lojadetenenisreactnative/static/js/runtime~app.b1138d9f.js",
+    "runtime~app.js.map": "/lojadetenenisreactnative/static/js/runtime~app.b1138d9f.js.map",
+    "static/js/2.bc8fc6e0.chunk.js": "/lojadetenenisreactnative/static/js/2.bc8fc6e0.chunk.js",
+    "static/js/2.bc8fc6e0.chunk.js.map": "/lojadetenenisreactnative/static/js/2.bc8fc6e0.chunk.js.map",
+    "fonts/AntDesign.ttf": "/lojadetenenisreactnative/./fonts/AntDesign.ttf",
+    "fonts/Anton_400Regular.ttf": "/lojadetenenisreactnative/./fonts/Anton_400Regular.ttf",
+    "fonts/Entypo.ttf": "/lojadetenenisreactnative/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/lojadetenenisreactnative/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/lojadetenenisreactnative/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/lojadetenenisreactnative/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/lojadetenenisreactnative/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/lojadetenenisreactnative/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/lojadetenenisreactnative/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/lojadetenenisreactnative/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/lojadetenenisreactnative/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/lojadetenenisreactnative/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/lojadetenenisreactnative/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/lojadetenenisreactnative/favicon-16.png",
+    "favicon-32.png": "/lojadetenenisreactnative/favicon-32.png",
+    "favicon.ico": "/lojadetenenisreactnative/favicon.ico",
+    "index.html": "/lojadetenenisreactnative/index.html",
+    "manifest.json": "/lojadetenenisreactnative/manifest.json",
+    "serve.json": "/lojadetenenisreactnative/serve.json",
+    "static/js/2.bc8fc6e0.chunk.js.LICENSE.txt": "/lojadetenenisreactnative/static/js/2.bc8fc6e0.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/lojadetenenisreactnative/static/media/1.3fc500af.png",
+    "static/media/2.png": "/lojadetenenisreactnative/static/media/2.47f70016.png",
+    "static/media/3.png": "/lojadetenenisreactnative/static/media/3.cb1c2a6d.png",
+    "static/media/4.png": "/lojadetenenisreactnative/static/media/4.faf2f39f.png",
+    "static/media/banner.png": "/lojadetenenisreactnative/static/media/banner.30fe929b.png",
+    "static/media/detail.png": "/lojadetenenisreactnative/static/media/detail.c5ba8a70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.b1138d9f.js",
+    "static/js/2.bc8fc6e0.chunk.js",
+    "static/js/app.0e0c8d9c.chunk.js"
+  ]
+}
